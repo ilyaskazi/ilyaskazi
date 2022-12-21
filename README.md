@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Ilyas+Kazi+(@ilyaskazi);Available+for+Remote+work!)](https://git.io/typing-svg)
 
 - 👀 Interested in Web Development.
-- 🔭 Exploring Laravel Nova, Livewire and TALL stack.
+- 🔭 Working with Laravel Nova, Livewire and TALL stack.
 - 🌱 Upgrading my skills in ReactJS, VueJS.
 
 ---
