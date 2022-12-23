@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Ilyas+Kazi+(@ilyaskazi);Available+for+Remote+work!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Ilyas+Kazi+(@ilyaskazi))](https://git.io/typing-svg)
 
 - 👀 Interested in Web Development.
 - 🔭 Working with Laravel Nova, Livewire and TALL stack.
